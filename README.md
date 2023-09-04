@@ -8,7 +8,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a beginner front-end developer from Russia. I am a second-year student at RTU MIREA. I actively learn something new in my free time. You can contact me using my <a href="https://vk.com/ky_z_ua">VK</a> and <a href="https://t.me/igor6541">TG</a>
+I am a beginner front-end developer from Russia. I am a 4-year student at RTU MIREA. I actively learn something new in my free time. You can contact me using my <a href="https://vk.com/ky_z_ua">VK</a> and <a href="https://t.me/igor6541">TG</a>
 
 ---
 
